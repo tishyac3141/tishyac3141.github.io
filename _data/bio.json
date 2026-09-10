@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tishya Chhabra",
-    "label": "Student",
+    "label": "Computer Science Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "tishyac@hawaii.edu",
     "phone": "602-662-9935",
     "website": "https://tishyac3141.github.io",
-    "summary": "Third-year undergrad majoring in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2028.",
+    "summary": "Dedicated computer science student with research experience applying data science and computer vision to coastal resilience, AI for healthcare, and programmable matter, along with prior experience in software engineering and robotics.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "tishyac3141", "url": "http://github.com/tishyac3141" },
@@ -21,95 +21,140 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Java", "Typescript" ]
+      "name": "Languages",
+      "keywords": [ "Python", "Java", "C++", "TypeScript", "HTML/CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "React", "Git/GitHub" ]
+      "name": "Frameworks & Libraries",
+      "keywords": [ "Flutter", "scikit-learn", "OpenCV", "React", "Pandas", "Matplotlib", "NumPy" ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [ "Git", "VS Code", "Trello", "Jira", "Google Workspace" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2028)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
+      "gpa": "3.78",
       "startDate": "2023-08-25",
       "endDate": "Present",
-      "courses": [
-      ]
+      "expectedGraduation": "2028-05-01",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Self-Assembly Lab, MIT",
+      "position": "Research Collaborator",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Growing Islands Project — tracking shoreline evolution on small sandy islands using satellite imagery and geospatial foundation models.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "First-authored and presented workshop papers at NeurIPS and ACM KDD (2025); also presented at Coastal Geotools Conference (Jan 2025) to NOAA, FEMA, and USGS professionals.",
+        "Assisted in a presentation to the UN General Assembly, September 2024."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaiʻi Digital Health Lab, University of Hawaiʻi at Mānoa",
+      "position": "Researcher and Collaborator",
+      "website": "",
+      "startDate": "2023-06-01",
+      "endDate": "2024-10-01",
+      "summary": "Evaluated the utility of Fitbit data combined with EHR data (NIH All of Us dataset) to predict lifestyle-related diseases.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Trained XGBoost models with Bayesian optimization and 10-fold CV + bootstrapped sampling for Type 2 Diabetes, Chronic Respiratory Disease, and Cardiovascular Disease.",
+        "Authored a first-author paper submitted to the Pacific Symposium on Biocomputing."
+      ]
+    },
+    {
+      "company": "Self-Organizing Particle Systems Lab, Arizona State University",
+      "position": "Undergraduate Researcher",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2025-08-01",
+      "summary": "Designed and implemented algorithms for programmable matter in the lab's particle simulator (Qt/C++).",
+      "highlights": [
+        "Co-authored 2 conference publications on leader election and energy-constrained distribution algorithms (OPODIS 2023, ICDCN 2023).",
+        "Co-created a Dynamic Networks simulator using Java and GraphStream."
       ]
     }
   ],
-  "volunteer": [
+  "volunteer": [],
+  "projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "name": "FRC Robotics Team 6479",
+      "position": "President & Programmer",
+      "startDate": "2020-01-01",
+      "endDate": "2022-05-01",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Manufactured, assembled, wired, and programmed teleoperated and autonomous routines for a 120-lb competition robot.",
+        "Led a 20-person team through a full competition season, from planning through milestone tracking."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "name": "Global Innovation Challenge (Swish! Connect)",
+      "position": "Team Lead",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-01",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Led design of an auto-adjusting basketball hoop for special-education students, plus a companion app and website.",
+        "Programmed a ball-detection algorithm using OpenCV and Python.",
+        "Named Top 20 Finalist out of 884 international teams."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Society of Women Engineers Deloitte Foundation National Scholarship",
+      "date": "2025",
+      "awarder": "Society of Women Engineers",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Live Más National Scholarship",
+      "date": "2025",
+      "awarder": "Taco Bell Foundation",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2023, Fall 2024, Spring 2025",
+      "awarder": "ASU Ira A. Fulton Schools of Engineering",
+      "summary": ""
+    },
+    {
+      "title": "Aspirations in Computing National Honorable Mention",
+      "date": "2022-05-01",
+      "awarder": "National Center for Women in Technology (NCWIT)",
+      "summary": "Top 360 recipients out of 3,500 applicants."
+    },
+    {
+      "title": "Dean's List Finalist",
+      "date": "2022-05-01",
+      "awarder": "FIRST Robotics",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Walter Zesk",
+      "reference": "Associate Professor of Design, Johnson & Wales University; Computation/Design PhD, MIT"
+    },
+    {
+      "name": "Skylar Tibbits",
+      "reference": "Co-Director, Self-Assembly Lab & Associate Professor, MIT Department of Architecture"
+    },
+    {
+      "name": "Peter Washington",
+      "reference": "Assistant Professor, UCSF"
+    },
+    {
+      "name": "Andréa Richa",
+      "reference": "President's Professor, Arizona State University"
     }
   ]
 }
