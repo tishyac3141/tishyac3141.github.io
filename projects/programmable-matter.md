@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/energy_distribution.png
+image: img/energy_distribution_cropped.png
 title: "Energy-Constrained Programmable Matter"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-01
