@@ -54,15 +54,13 @@ Tishya Chhabra, Walter Zesk, Skylar Tibbits. *Utilizing a Geospatial Foundation 
 
 ## Talk
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="https://slideslive.com/embed/presentation/39052607" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen scrolling="no" allow="autoplay; encrypted-media; fullscreen"></iframe>
-</div>
+[Watch the NeurIPS 2025 talk on SlidesLive](https://slideslive.com/39052607/utilizing-a-geospatial-foundation-model-for-coastline-delineation)
 
-I also presented this work at Coastal GeoTools 2025 (*Novel AI Models for Shoreline Detection*) to an audience of coastal professionals from NOAA, FEMA, and USGS, and assisted in a related presentation of the Growing Islands project to the UN General Assembly in New York in September 2024.
+I gave a similar, but longer talk at the Fragile Earth AI workshop at KDD. I also presented an earlier version of this work at Coastal GeoTools 2025 (*Novel AI Models for Shoreline Detection*) to an audience of coastal professionals from NOAA, FEMA, and USGS, and assisted in a related presentation of the Growing Islands project to the UN General Assembly in New York in September 2024.
 
 ## Collaborators
 
-Manisha Bajpai, Walter Zesk (MIT), and Skylar Tibbits (MIT Self-Assembly Lab).
+Walter Zesk (MIT) and Skylar Tibbits (MIT Self-Assembly Lab).
 
 ## Links
 
