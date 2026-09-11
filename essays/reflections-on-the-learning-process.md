@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflections on Typescript (and learning)"
+title: "TypeScript, Take Two"
 date: 2025-09-10
 published: true
 labels:
@@ -18,8 +18,10 @@ Overall, it's a solid language, similar to Javascript. I will say, I don't think
 
 I am going to be finding answers to those questions.
 
+But I think Typescript is a solid language. It's got a clear use-case, it's got clear differences from other languages, and it's not incredibly difficult of convoluted to understand or use.
+
 ## Athletic Learning
 
-I'm in a class and we're taking a different approach to learning. I think the general structure is good. Class time is essentially used on completing quizzes, which are really just timed sessions of implementing a function (so far). It feels fine, though a little bit dull. What's the point of being in a class with other people if we're just on our computer the entire time? Even lectures, even if dull, at least have an incentive in that the information being disseminated by the professor is unique.
+I'm in a class and we're taking a different approach to learning. I think the general structure is good. Class time is essentially used on completing quizzes (called WODs), which are really just timed sessions of implementing a function (so far). It feels fine, though a little bit dull. What's the point of being in a class with other people if we're just on our computer the entire time? Even lectures, even if dull, at least have an incentive in that the information being disseminated by the professor is unique. 
 
-I think the core concept or idea is good; class time shouldn't be all one-way. We should be doing things in class. But so far, it's a bit dull. Though, that may also be because we've just started. 
+I think the core concept or idea is good; class time shouldn't be all one-way. We should be doing things in class and the quizzes are a good start. I really like that we're going fast and quickly acquiring skills. With how much we can use AI these days, it's good to build an intuition as opposed to doing super long assignments. But I feel the aspects of being present in a class are not being utilized just yet. This may also be because we're only a couple weeks into the semester. I hope it changes!
