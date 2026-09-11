@@ -16,6 +16,11 @@ Lately, I've been formally learning Typescript. It has been quite fun. I had fir
 
 Overall, it's a solid language, similar to Javascript. I will say, I don't think I've acquired enough background to fully understand the necessity of different languages. Javascript and Typescript are more languages of the web, but were they intentionally written to be used predominantly that way? How did the inventors of the language (along with all of the other languages) even make such decisions on how variables should be declared and how loops should be written? How and why, WHY, does one create a new programming language?
 
+I mean, what stops us from doing this?
+
+![XKCD comic on types](https://imgs.xkcd.com/comics/types.png)
+*[XKCD #2899: Types](https://xkcd.com/2899/)*
+
 I am going to be finding answers to those questions.
 
 But I think Typescript is a solid language. It's got a clear use-case, it's got clear differences from other languages, and it's not incredibly difficult of convoluted to understand or use.
