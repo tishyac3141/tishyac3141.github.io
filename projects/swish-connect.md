@@ -14,7 +14,7 @@ labels:
 summary: "A robotic, adjustable basketball hoop designed to help special education students develop motor skills. Top 20 finalist out of 850 teams worldwide at the 2021 FIRST Global Innovation Awards."
 ---
 
-<img class="img-fluid" src="../img/swish/swish-header.jpg">
+<img class="img-fluid" src="../img/swish/Poster-Innovation-v3.png">
 
 As president of FRC Team 6479 (AZTECHS) and lead of the Innovation Challenge, I led a seven-person team through the 2021 FIRST Global Innovation Challenge, where teams were asked to design a solution that helps a community achieve optimum physical and mental health through movement. Out of 850 applicants worldwide, our project — **Swish! Connect** — was named a Top 20 finalist and represented the state of Arizona.
 
