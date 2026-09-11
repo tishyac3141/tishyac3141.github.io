@@ -17,10 +17,10 @@ It is such an interesting time to be learning software engineering. The rapid ch
 
 But let me take a step back. Confession: I had actually lost a bit of interest in software engineering for a couple years. Throughout school, I did a lot of software-engineering-adjacent projects. We had hackathons of course, the Technovation challenge, an elective class called SEARCH where we prototyped our own app and presented it at LinkedIn, even the FRC Global Innovation Challenge. 
 
-<img class="img-fluid" src="../img/linkedin.jpeg" style="max-width: 600px; display: block; margin: 0 auto;">
-
-<img class="img-fluid" src="../img/technovation.jpeg" style="max-width: 600px; display: block; margin: 0 auto;">
-
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img class="img-fluid" src="../img/linkedin.jpeg" style="max-width: 600px; flex: 1 1 300px;">
+  <img class="img-fluid" src="../img/technovation.jpeg" style="max-width: 600px; flex: 1 1 300px;">
+</div>
 
 They all had the same fundamental process where we had to choose a problem, research and understand our users, design with our users' needs in mind, make sound architectural decisions, and be able to defend our technical choices. Perhaps now that I'm writing it out, these experiences were beyond just software engineering, since we had to come up with our own ideas, work in a team, and pitch it, but software engineering was a big part of it. As a result, by the time I graduated high school, I had a narrow view of what software engineering is and wanted to just take a break from it. The rapid prototyping loop, having to juggle so many different aspects, and the fact that none of them moved into the real world - all of that made me tired. I wanted to just broaden my technical skills. 
 
