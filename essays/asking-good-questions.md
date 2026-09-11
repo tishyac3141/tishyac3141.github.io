@@ -11,11 +11,17 @@ labels:
   - AI
 ---
 
-## A Vital Skill
+## A vital skill
 
 Now more than ever, properly structuring a question or issue one is facing is one of the most important skills for an engineer. Even when relying on LLMs - garbage in, garbage out. Without giving proper context, such a powerful tool can give really mediocre output. So, not only is conveying a question well a necessary skill when working in a team, it's now doubly as important with these agents that we interact with in plain English. A similar amount of work has to be done first.
 
-Eric Raymond's essay, [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), is basically a manual for that skill. His argument is simple. The open source community will help you, but it will not do the thinking for you. Show that you have tried, be precise, and respectful. Maybe the respectful part isn't necessary when interacting with an LLM, but regardless. The core concept is extremely relevant.
+This illustrates what we're all guilty of doing at some point... but probably should stop doing.
+
+![xkcd: Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)
+
+*Credit: [xkcd 1838, "Machine Learning"](https://xkcd.com/1838/)*
+
+Eric Raymond's essay, [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), is basically a manual for that skill. His argument is simple. The open source community will help you, but it will not do the thinking for you. Show that you have tried, be precise, and be respectful. Maybe the respectful part isn't necessary when interacting with an LLM, but regardless. The core concept is extremely relevant.
 
 Stack Overflow is where this plays out publicly, every day. So I looked at two questions there, one that follows Raymond's advice and one that doesn't, to see how the community actually responds.
 
