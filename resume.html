@@ -154,13 +154,13 @@ layout: home
     </div>
     {% endif %}
 
-    {% if site.data.bio.volunteer %}
+    {% if site.data.bio.projects %}
       <div class="row pt-4 align-items-start">
         <div class="col-lg-3">
           <h1 class="display-6 text-start m-0">Activities</h1>
         </div>
         <div class="col-lg-9">
-          {% for entry in site.data.bio.volunteer %}
+          {% for entry in site.data.bio.projects %}
           <div class="row mb-3">
             <div class="col-9">
               <p class="mb-0"><b>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</b></p>
