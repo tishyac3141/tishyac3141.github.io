@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/swish/swish-square.jpg
+image: img/swish/Poster-Innovation-v3.png
 title: "Swish! Connect"
 # All dates must be YYYY-MM-DD format!
 date: 2021-06-30
