@@ -16,7 +16,7 @@ labels:
 summary: "Fine tuning NASA and IBM's Prithvi-EO-2.0 geospatial foundation model to delineate shorelines of small sandy islands from Sentinel-2 satellite imagery, in support of MIT's Growing Islands project on sea level rise."
 ---
 
-<img class="img-fluid" src="../img/growing-islands/islands.jpeg"
+<img class="img-fluid" src="../img/growing-islands/neurips_poster.png">
 
 ## Overview
 
