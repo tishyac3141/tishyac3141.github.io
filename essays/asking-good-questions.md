@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Communication
   - Stack Overflow
+  - AI
 ---
 
 ## A Vital Skill
