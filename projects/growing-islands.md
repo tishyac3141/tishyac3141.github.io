@@ -16,8 +16,6 @@ labels:
 summary: "Fine tuning NASA and IBM's Prithvi-EO-2.0 geospatial foundation model to delineate shorelines of small sandy islands from Sentinel-2 satellite imagery, in support of MIT's Growing Islands project on sea level rise."
 ---
 
-<img class="img-fluid" src="../img/growing-islands/neurips_poster.png" style="max-width: 600px; display: block; margin: 0 auto;">
-
 ## Overview
 
 I have been a research collaborator at MIT's [Self-Assembly Lab](https://selfassemblylab.mit.edu/) since October 2023, working on the [Growing Islands](https://selfassemblylab.mit.edu/growing-islands) project. The lab strategically places geometric structures underwater around Maldivian islands to encourage natural sand accumulation, forming sandbars that can help coastlines resist erosion and sea level rise. Deciding where to place structures depends on understanding how shorelines have shifted over years and decades, which means we need reliable ways to extract shorelines from satellite imagery.
@@ -37,6 +35,8 @@ Key pieces of the project:
 - Evaluation. All models were tested on the same 22 image held out set, measured by F1 and IoU.
 
 ## Results
+
+<img class="img-fluid" src="../img/growing-islands/neurips_poster.png" style="max-width: 600px; display: block; margin: 0 auto;">
 
 Prithvi transferred remarkably well to this task, even with very little labeled data:
 
