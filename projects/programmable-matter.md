@@ -7,6 +7,7 @@ title: "Energy-Constrained Programmable Matter"
 date: 2023-12-01
 published: true
 labels:
+  - Published Research
   - Distributed Algorithms
   - Programmable Matter
   - Self-Organizing Systems

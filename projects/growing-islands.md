@@ -7,12 +7,12 @@ title: "Shoreline Detection for the Growing Islands Project"
 date: 2025-12-01
 published: true
 labels:
+  - Peer-reviewed Workshop Papers
   - Machine Learning
   - Computer Vision
   - Geospatial Foundation Models
   - Remote Sensing
   - Python
-  - PyTorch
 summary: "Fine tuning NASA and IBM's Prithvi-EO-2.0 geospatial foundation model to delineate shorelines of small sandy islands from Sentinel-2 satellite imagery, in support of MIT's Growing Islands project on sea level rise."
 ---
 
