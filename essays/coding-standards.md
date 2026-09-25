@@ -31,3 +31,9 @@ That said, irritatingly enough, a good chunk of the ESLint errors I dealt with t
 
 
 I'm not sure if I totally agree that coding standards the single most impactful technique for software quality. I do think they're the technique that has the lowest barrier to entry and the highest passive return. But all of this is certianly also getting taken care of with AI tools. So... what really matters? Open question there. 
+
+Anyway, let's at least never be like this:
+
+![xkcd: Code Quality](https://imgs.xkcd.com/comics/code_quality.png)
+
+*Credit: [xkcd 1513, "Code Quality"](https://xkcd.com/1513/)*
