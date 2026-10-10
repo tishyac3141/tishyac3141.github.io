@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "TypeScript, Take Two"
-date: 2025-09-10
+date: 2026-09-10
 published: true
 labels:
   - Software Engineering

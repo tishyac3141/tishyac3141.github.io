@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The Importance of Writing Good Questions (yes, even though we use AI)"
-date: 2025-09-10
+date: 2026-09-10
 published: true
 labels:
   - Software Engineering
