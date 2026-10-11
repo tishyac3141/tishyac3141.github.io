@@ -18,11 +18,13 @@ I wanted to do some research to check out whether one should always use Bootstra
 As it turns out, it isn't a trivial choice that yes, we should use frameworks all the time! 
 [This link](https://www.reddit.com/r/webdev/comments/nbfml9/does_anyone_develop_websites_with_just_html_css/) has a lot of people talking about how HTML, CSS, and Javascript is enough. I never considered that frameworks can also add weight to an application, so some people are memory-constrained and therefore cannot use a framework. Also, CSS itself is incredibly versatile and a lot can be done with it. Some people mentioned on that thread that frameworks can be useful in larger teams because it can standardize the code itself, which I think is a very valid point. 
 
+For example, here's a [website](https://www.drvictoriachan.com/) that was built using only HTML and CSS. It's a really good website, and I don't see how Bootstrap could "make it better". I think it really comes down to the developer and their programming
+
 Also, Bootstrap is way behind compared to React. React seems to be the primary choice. I did a comparison of downloads from npm over the past 5 years:
 
 ![graph of comparisons of ui frameworks downloaded using npm](/img/frameworks-downloads.png)
 
-React and Bootstrap came out at the same time, and React is multiple orders of magnitude more popular. 
+React and Bootstrap came out at the same time, yet React is multiple orders of magnitude more popular. So it shows that React is clearly a very popular choice.
 
 Bottom line, my choice is currently leaning to using Bootstrap when time is a constraint and as a learning tool, but focus on React for real-world development. And more importantly, I want to get into everything that CSS has to offer. Which may be an unending task! 
 
