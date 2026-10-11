@@ -22,7 +22,7 @@ For example, here's a [website](https://www.drvictoriachan.com/) that was built 
 
 Also, Bootstrap is way behind compared to React. React seems to be the primary choice. I did a comparison of downloads from npm over the past 5 years:
 
-<img src="/img/frameworks-downloads.png" width="150">
+<img src="/img/frameworks-downloads.png" width="350">
 
 React and Bootstrap came out at the same time, yet React is multiple orders of magnitude more popular. So it shows that React is clearly a very popular choice.
 
