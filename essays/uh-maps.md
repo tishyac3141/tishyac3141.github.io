@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Study Spotta"
+title: "UH Maps"
 date: 2026-11-04
 published: true
 labels:
